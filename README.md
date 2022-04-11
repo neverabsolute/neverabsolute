@@ -6,7 +6,11 @@
   <img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> <br/>
   <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br/>
   <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br>
-  [Linkedin](https://linkedin.com/in/atx)
+</div>
+
+<div align='center'>
+  <br>
+  <a href="https://linkedin.com/in/atx">Linkedin</a>
 </div>
 
 <div align='center'>
