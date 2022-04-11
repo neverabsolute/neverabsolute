@@ -1,5 +1,4 @@
 ### Hello :)
-#### My name is Jackson. I code in python, deploy servers, and generally have a good time
 
 <div align='center'>
   <h1>Technical Skills</h1><br>
