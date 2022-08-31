@@ -9,11 +9,6 @@
 </div>
 
 <div align='center'>
-  <br>
-  <a href="https://linkedin.com/in/atx">Linkedin</a>
-</div>
-
-<div align='center'>
   <h1>Stats</h1><br>
 </div>
 
