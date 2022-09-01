@@ -13,8 +13,7 @@
   <h1>Stats</h1><br>
 </div>
 
-![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=neverabsolute&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=F3F3F3&title_color=E1E1E1)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=neverabsolute&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=F3F3F3&title_color=E1E1E1)
 
-![Jackson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neverabsolute&custom_title=Top%20Languages&bg_color=0D1117&text_color=848A90&title_color=FFFFFF)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchoyce&layout=compact) -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
