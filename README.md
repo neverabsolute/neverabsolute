@@ -15,17 +15,17 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neverabsolute&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=F3F3F3&title_color=E1E1E1)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
-🌆 Daytime    304 commits    ████████████░░░░░░░░░░░░░   50.25% 
-🌃 Evening    182 commits    ███████░░░░░░░░░░░░░░░░░░   30.08% 
-🌙 Night      46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.6%
+🌞 Morning    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
+🌆 Daytime    310 commits    ████████████░░░░░░░░░░░░░   50.74% 
+🌃 Evening    182 commits    ███████░░░░░░░░░░░░░░░░░░   29.79% 
+🌙 Night      46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.53%
 
 ```
 
