@@ -3,7 +3,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neverabsolute&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=F3F3F3&title_color=E1E1E1)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-547%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -11,8 +11,8 @@
 
 ```text
 🌞 Morning    89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
-🌆 Daytime    350 commits    ████████████░░░░░░░░░░░░░   51.4% 
-🌃 Evening    205 commits    ███████░░░░░░░░░░░░░░░░░░   30.1% 
+🌆 Daytime    347 commits    ████████████░░░░░░░░░░░░░   50.95% 
+🌃 Evening    208 commits    ███████░░░░░░░░░░░░░░░░░░   30.54% 
 🌙 Night      37 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.43%
 
 ```
