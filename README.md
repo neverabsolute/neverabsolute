@@ -2,10 +2,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neverabsolute&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=F3F3F3&title_color=E1E1E1)
 
+<img width="100px" src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fneverabsolute" />
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%209%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
