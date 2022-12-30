@@ -1,6 +1,4 @@
-### Hello :)
-
-<a href="https://github.com/neverabsolute"><img src="contributions.svg"></a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/219150672166125568?bg=0d1117)](https://discord.com/users/219150672166125568)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neverabsolute&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=F3F3F3&title_color=E1E1E1&hide_border=true)
 
@@ -12,4 +10,4 @@
 
 <!--END_SECTION:waka-->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/219150672166125568)](https://discord.com/users/219150672166125568)
+<a href="https://github.com/neverabsolute"><img src="contributions.svg"></a>
