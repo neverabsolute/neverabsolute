@@ -25,3 +25,5 @@ Svelte                   30 mins             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/219150672166125568)](https://discord.com/users/219150672166125568)
