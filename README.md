@@ -7,12 +7,12 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neverabsolute&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=F3F3F3&title_color=E1E1E1&hide_border=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Denver
+⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
 TypeScript               6 hrs 9 mins        ██████████████░░░░░░░░░░░   59.28% 
