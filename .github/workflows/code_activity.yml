@@ -26,3 +26,4 @@ jobs:
           COMMIT_MESSAGE: "Automated Coding Activity Update :alien:"
           SHOW_COMMIT: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LANGUAGE: "False"
