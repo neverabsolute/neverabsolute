@@ -1,13 +1,7 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/219150672166125568?bg=0d1117)](https://discord.com/users/219150672166125568)
+# jackson | <img width="100px" src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fneverabsolute" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neverabsolute&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=F3F3F3&title_color=E1E1E1&hide_border=true)
+<img align="left" src="https://lanyard.cnrad.dev/api/219150672166125568?bg=0d1117" />
 
-<img width="100px" src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fneverabsolute" />
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2030%20mins-blue)
-
-
-<!--END_SECTION:waka-->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=neverabsolute&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=F3F3F3&title_color=E1E1E1&hide_border=true" />
 
 <a href="https://github.com/neverabsolute"><img src="contributions.svg"></a>
