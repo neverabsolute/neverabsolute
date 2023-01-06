@@ -1,4 +1,4 @@
-# Jackson <img width="100px" src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fneverabsolute" />
+# Jackson <img width="100px" src="https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fneverabsolute" /> <img src="https://wakatime.com/badge/user/ed4716d8-684c-49bf-bac0-d88f6243796a.svg" />
 
 <div>
     <img width="40%" align="left" src="https://lanyard.cnrad.dev/api/219150672166125568?bg=0d1117" />
