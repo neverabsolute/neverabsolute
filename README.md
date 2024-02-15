@@ -1,4 +1,4 @@
-# Jackson <img width="150px" src="https://komarev.com/ghpvc/?username=neverabsolute&color=blue&base=10467" /> <img width="150px" src="https://wakatime.com/badge/user/ed4716d8-684c-49bf-bac0-d88f6243796a.svg" />
+# Jackson <img width="150px" src="https://komarev.com/ghpvc/?username=neverabsolute&color=blue&base=10467" /> <img width="200px" src="https://wakatime.com/badge/user/ed4716d8-684c-49bf-bac0-d88f6243796a.svg" />
 
 <div>
     <img width="40%" align="left" src="https://lanyard.cnrad.dev/api/219150672166125568?bg=0d1117" />
